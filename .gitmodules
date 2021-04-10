@@ -1,0 +1,3 @@
+[submodule "oslab"]
+	path = oslab
+	url = https://github.com/Draktolli/oslab
